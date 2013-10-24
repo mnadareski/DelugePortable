@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: deluge
+Version: 1.3.6
+Summary: Bittorrent Client
+Home-page: http://deluge-torrent.org
+Author: Andrew Resch, Damien Churchill
+Author-email: andrewresch@gmail.com, damoxc@gmail.com
+License: GPLv3
+Description: Deluge is a bittorrent client that utilizes a
+                daemon/client model. There are various user interfaces available for
+                Deluge such as the GTKui, the webui and a console ui. Deluge uses
+                libtorrent in it's backend to handle the bittorrent protocol.
+Keywords: torrent bittorrent p2p fileshare filesharing
+Platform: UNKNOWN
